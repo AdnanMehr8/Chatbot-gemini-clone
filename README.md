@@ -19,3 +19,6 @@ The Gemini Clone Chatbot is a conversational agent developed using the Gemini AP
 7. **Responsive Design:** The chatbot's interface is designed to be responsive, ensuring optimal viewing and interaction experiences across various devices and screen sizes.
 
 Overall, the Gemini Clone Chatbot offers a sophisticated yet accessible solution for businesses and developers looking to integrate conversational AI capabilities into their websites or applications. Whether it's providing customer support, delivering personalized recommendations, or assisting with information retrieval, this chatbot excels in enhancing user engagement and satisfaction.
+
+# Note:
+Change "YOUR_API_KEY" with api key that you are using in script.js an as well as in index.html/script.
