@@ -36,7 +36,7 @@ const createElement =(html , className) => {
 }
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const API_KEY = "AIzaSyALwSvlTW-_XvwTvcVRL0RaYtvVneZzUhA";
+const API_KEY = "Your_API_KEY";
 const genAI = new GoogleGenerativeAI(API_KEY);
 
 // Function to handle fetching chat response
