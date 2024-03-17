@@ -1,8 +1,8 @@
-Gemini Clone Chatbot:
+# Gemini Clone Chatbot
 
 The Gemini Clone Chatbot is a conversational agent developed using the Gemini API, HTML, CSS, and JavaScript. Designed to provide users with an interactive and engaging experience, this chatbot leverages the power of Gemini's capabilities to deliver intelligent responses and assistance.
 
-Key Features:
+## Key Features:
 
 1. **Conversational Interface:** The chatbot offers a user-friendly conversational interface, allowing users to interact with it naturally using text input.
 
