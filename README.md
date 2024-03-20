@@ -22,3 +22,18 @@ Overall, the Gemini Clone Chatbot offers a sophisticated yet accessible solution
 
 # Note:
 Change "YOUR_API_KEY" with api key that you are using in script.js an as well as in index.html/script.
+
+# Running The Programme:
+To run server-side code, such as an Express server, you need to execute it in a Node.js environment. Here's how you can do it:
+
+1. **Install Node.js**: If you haven't already, download and install Node.js from the official website: [Node.js Downloads](https://nodejs.org/en/download/). Follow the installation instructions for your operating system.
+
+2. **Run your server**: Open your terminal or command prompt, navigate to the directory where your `server.js` file is located, and then run the following command:
+   
+   'node server.js'
+   
+   This command will start your Node.js server, and if there are no errors in your code, it will start listening for incoming requests on the specified port.
+
+3. **Access your server**: Once your server is running, you can access it by opening a web browser and navigating to `http://localhost:3000` (assuming your server is listening on port 3000). You should see the response from your server if everything is set up correctly.
+
+Remember, server-side code is meant to be run in a Node.js environment, not in a web browser. Node.js provides the necessary runtime environment for executing JavaScript code outside of the browser.
